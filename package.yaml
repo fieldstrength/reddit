@@ -23,9 +23,6 @@ extra-source-files:
   - test/data/getUserInfo_example.json
   - test/data/getUserComments_example.json
 
-default-extensions:
-  - OverloadedStrings
-
 ghc-options:
   - -Wall
 
