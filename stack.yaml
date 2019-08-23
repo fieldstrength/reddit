@@ -1,6 +1,4 @@
-resolver: lts-13.0
+resolver: lts-14.0
 
 extra-deps:
-
-  - git: git://github.com/fieldstrength/api-builder.git
-    commit: 63c006c9290f28cf7cacdcdf17a4079ef590e5cd
+  - api-builder-0.16.0.0
